@@ -8,7 +8,7 @@ export interface StorefrontConfig {
 
 export const storefront: StorefrontConfig = {
     businessId: "demo-business",
-    name: "Demo Candle shop",
+    name: "Northwood Home Goods",
     tagline: "Small-batch candles made with care",
     currency: "USD",
     contactEmail: "demo@example.com",
